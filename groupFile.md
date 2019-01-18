@@ -1,2 +1,4 @@
 Team Name: Gucci Gang
-Name: James Won
+Names: 
+James Won
+Nick Benevento
