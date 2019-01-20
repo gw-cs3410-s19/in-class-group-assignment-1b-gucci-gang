@@ -1,4 +1,10 @@
 Team Name: Gucci Gang
-Names: 
+
+Names:
+
 James Won
+
 Nick Benevento
+
+Sarah Morin
+
